@@ -1,1 +1,1 @@
-# devStyding-classicVolumetricProjectStyle-from-IvanPetrychenko-
+# devStyding-classicVolumetricProjectStyle-from-IvanPetrychenko
