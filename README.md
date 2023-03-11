@@ -1,22 +1,25 @@
-# devStyding-picturesArt
+# devStyding-telegADS
 
-Это мой тестовый проект, мною был написан только JS код . 
+Это мой учебный проект, одностраничный сайт который был выполнен в класическом стиле, мною был написан только JS код. 
 
-# 
+This is my educational project, a one-page site that was made in the classic style, I only wrote the JS code.
 
-This is my educational project, a multi-page site, which was made in the OOP style, I only wrote the JS code.
+## List of executed JS Native tasks:
 
-#
+* Modals
+* Accordion
+* Burger menu
+* Calculator
+* Check form
+* Mask form
+* Sliders
+* POST requests
+* and other
 
-## Список выполнених мною заданий:
+## Technologies were used:
 
-### JavaScript
-
-* Forms 
-* Tabs 
-* Accordion 
-* Drops 
-* Video Player 
-* PDF Download 
-* Sliders 
-* Number Mask
+* Bootstrap 5
+* Fetch API
+* Webpack
+* Gulp
+* Git
